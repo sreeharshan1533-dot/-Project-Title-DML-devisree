@@ -1,44 +1,62 @@
-"Project Title
+Project Title
 
-DML Project Using Python
+Double Machine Learning Project Using Python
 
-Description
+Project Description
 
-This project contains a Python based implementation of Data Manipulation Language concepts.
-The program demonstrates how database operations like insert, update, delete and select can be handled using Python logic.
-This file is created for learning and academic purposes.
+This project contains a Python implementation of Double Machine Learning for causal inference.
+The notebook focuses on estimating the Average Treatment Effect using machine learning based residualization techniques.
+The project is created for academic learning and practice purposes.
+
 
 File Information
 
-The main file in this repository is a Jupyter Notebook.
-It includes Python code with explanations and execution results.
-The code is written in a simple and easy to understand format.
+The repository contains a Jupyter Notebook named DML_Devisree.ipynb.
+The notebook includes Python code, explanations, and output results.
+All implementation is done using Python libraries.
+
+Concepts Covered
+
+Data generation for causal inference
+Treatment and outcome modeling
+Residualization using machine learning models
+Average Treatment Effect estimation
+Basic understanding of Double Machine Learning workflow
+
 
 Requirements
 
 Python version 3 or above
 Jupyter Notebook
 Basic knowledge of Python
-Basic understanding of database concepts
+Basic understanding of machine learning and statistics
 
-How to Run the Program
+Libraries Used
+
+NumPy
+Pandas
+Scikit learn
+Matplotlib
+
+How to Run the Project
 
 Install Python on your system
 Install Jupyter Notebook
-Download or clone this repository
-Open the notebook file using Jupyter Notebook
-Run the cells one by one to see the output
+Clone or download this repository
+Open the file DML_Devisree.ipynb using Jupyter Notebook
+Run the cells step by step to view results
 
 Purpose of the Project
 
-To understand DML concepts through Python
-To practice database related logic
-To improve programming skills for students
+To understand the basics of Double Machine Learning
+To learn causal inference concepts using Python
+To improve practical machine learning implementation skills
 
 Author
 
-Devisree
+Devisree G
 
 License
 
-This project is free to use for educational purposes"
+This project is free to use for educational purposes only.
+
